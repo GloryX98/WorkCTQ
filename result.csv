@@ -1,141 +1,141 @@
 Hostname,IP Address,Status
-GCAISSE-NUK.togocom.int,10.228.15.100,Resolved
-LO-VOCAL-WRTC02.togocom.int,10.228.15.100,Resolved
-GCAISSE-AFA.togocom.int,10.228.15.100,Resolved
-CA-SEGURA-CONNECTOR.yas.tg,10.228.15.100,Resolved
-GCAISSE-AGC.togocom.int,10.228.15.100,Resolved
-GCAISSE-AGO.togocom.int,10.228.15.100,Resolved
-ca-basws2019.togocom.int,10.228.15.100,Resolved
-GCAISSE-BLI.togocom.int,10.228.15.100,Resolved
+GCAISSE-NUK.togocom.int,10.228.14.54,Resolved
+LO-VOCAL-WRTC02.togocom.int,10.228.36.217,Resolved
+GCAISSE-AFA.togocom.int,10.228.14.21,Resolved
+CA-SEGURA-CONNECTOR.yas.tg,10.228.15.75,Resolved
+GCAISSE-AGC.togocom.int,10.228.14.58,Resolved
+GCAISSE-AGO.togocom.int,10.228.14.22,Resolved
+ca-basws2019.togocom.int,10.228.48.18,Resolved
+GCAISSE-BLI.togocom.int,10.228.14.46,Resolved
 CA-HAPROXYPROD.ws.togocom.tg,Not found or domain doesn't exist,Not Resolved
-GCAISSE-ELAV.togocom.int,10.228.15.100,Resolved
-GCAISSE-ZAN.togocom.int,10.228.15.100,Resolved
-CA-SAGEX3-APP.togocom.int,10.228.15.100,Resolved
-GCAISSE-TCH.togocom.int,10.228.15.100,Resolved
-GCAISSE-PORT.togocom.int,10.228.15.100,Resolved
-SYMANTEC.togocom.int,10.228.15.100,Resolved
-CA-EDW-FE01.togocom.int,10.228.15.100,Resolved
-GCAISSE-TSE.togocom.int,10.228.15.100,Resolved
-LO-LAPS.togocom.int,10.228.15.100,Resolved
-CA-EDW-ETL04.togocom.int,10.228.15.100,Resolved
-GCAISSE-BAS.togocom.int,10.228.15.100,Resolved
-RDS-PARTENAIRE.togocom.int,10.228.15.100,Resolved
-LO-ISOC-APP.togocom.int,10.228.15.100,Resolved
-CA-DHCP01.togocom.int,10.228.15.100,Resolved
-GCAISSE-AFG.togocom.int,10.228.15.100,Resolved
-CA-VOCAL-DB02.togocom.int,10.228.15.100,Resolved
-CA-RADIUS-01.togocom.int,10.228.15.100,Resolved
-GCAISSE-DAP.togocom.int,10.228.15.100,Resolved
-CA-PRD-SHR-WSJMPB01.togocom.int,10.228.15.100,Resolved
+GCAISSE-ELAV.togocom.int,10.228.14.51,Resolved
+GCAISSE-ZAN.togocom.int,10.228.14.57,Resolved
+CA-SAGEX3-APP.togocom.int,10.228.14.90,Resolved
+GCAISSE-TCH.togocom.int,10.228.14.31,Resolved
+GCAISSE-PORT.togocom.int,10.228.14.36,Resolved
+SYMANTEC.togocom.int,10.228.15.31,Resolved
+CA-EDW-FE01.togocom.int,10.228.11.39,Resolved
+GCAISSE-TSE.togocom.int,10.228.14.33,Resolved
+LO-LAPS.togocom.int,10.228.15.222,Resolved
+CA-EDW-ETL04.togocom.int,10.228.11.38,Resolved
+GCAISSE-BAS.togocom.int,10.228.14.26,Resolved
+RDS-PARTENAIRE.togocom.int,192.168.20.185,Resolved
+LO-ISOC-APP.togocom.int,10.228.15.221,Resolved
+CA-DHCP01.togocom.int,10.228.15.54,Resolved
+GCAISSE-AFG.togocom.int,10.228.14.59,Resolved
+CA-VOCAL-DB02.togocom.int,10.228.11.83,Resolved
+CA-RADIUS-01.togocom.int,10.228.15.64,Resolved
+GCAISSE-DAP.togocom.int,10.228.14.38,Resolved
+CA-PRD-SHR-WSJMPB01.togocom.int,10.228.13.31,Resolved
 CA-VAS-BNG01.togocom.tg,Not found or domain doesn't exist,Not Resolved
-LO-VOCAL-ONXMM2.togocom.int,10.228.15.100,Resolved
+LO-VOCAL-ONXMM2.togocom.int,10.228.11.138,Resolved
 SFTP-ACI-BACKUP.yas.tg,Not found or domain doesn't exist,Not Resolved
 LO-RSYSLOG01.togocom.tg,Not found or domain doesn't exist,Not Resolved
-prp01-db2.ws.togocom.tg,10.228.15.100,Resolved
-LO-SEGURA-BACKUP.yas.tg,10.228.15.100,Resolved
-CA-SYSHELP.togocom.int,10.228.15.100,Resolved
-VMCDP-ROBON.togocom.int,10.228.15.100,Resolved
-CA-NEXT-REPORTS.togocom.int,10.228.15.100,Resolved
-CA-SOCasS-TEST.togocom.int,10.228.15.100,Resolved
-CA-VOCAL-ONXMM1.togocom.int,10.228.15.100,Resolved
-GCAISSE-BAD.togocom.int,10.228.15.100,Resolved
-LO-WSUS.togocom.int,10.228.15.100,Resolved
+prp01-db2.ws.togocom.tg,10.228.19.208,Resolved
+LO-SEGURA-BACKUP.yas.tg,10.228.15.227,Resolved
+CA-SYSHELP.togocom.int,10.228.14.70,Resolved
+VMCDP-ROBON.togocom.int,10.228.12.251,Resolved
+CA-NEXT-REPORTS.togocom.int,10.228.15.43,Resolved
+CA-SOCasS-TEST.togocom.int,10.228.15.69,Resolved
+CA-VOCAL-ONXMM1.togocom.int,10.228.11.97,Resolved
+GCAISSE-BAD.togocom.int,10.228.14.25,Resolved
+LO-WSUS.togocom.int,10.228.15.251,Resolved
 *.yas.tg,Not found or domain doesn't exist,Not Resolved
-GCAISSE-TAB.togocom.int,10.228.15.100,Resolved
-LO-GCAISSE-TGT.togocom.int,10.228.15.100,Resolved
-DESKTOP-6B9FPCH.togocom.int,10.228.15.100,Resolved
-GCAISSE-TOHOU.togocom.int,10.228.15.100,Resolved
+GCAISSE-TAB.togocom.int,10.228.14.30,Resolved
+LO-GCAISSE-TGT.togocom.int,10.228.14.210,Resolved
+DESKTOP-6B9FPCH.togocom.int,192.168.20.213,Resolved
+GCAISSE-TOHOU.togocom.int,10.228.14.48,Resolved
 TG-INFRACA-DC.togocom.int,10.228.15.100,Resolved
-LO-X3-SYRACUSE2.togocom.int,10.228.15.100,Resolved
-GMAO-DBGALAXY1.togocom.int,10.228.15.100,Resolved
-CA-CERTMGMT-WIN.togocom.int,10.228.15.100,Resolved
-GCAISSE-AGOENYVE.togocom.int,10.228.15.100,Resolved
-GCAISSE-MON.togocom.int,10.228.15.100,Resolved
-CA-MIXX-AI-ANALYSIS.yas.tg,10.228.15.100,Resolved
-GCAISSE-SOK.togocom.int,10.228.15.100,Resolved
-GCAISSE-AGP.togocom.int,10.228.15.100,Resolved
-yas.tg,10.228.15.100,Resolved
+LO-X3-SYRACUSE2.togocom.int,10.228.14.208,Resolved
+GMAO-DBGALAXY1.togocom.int,10.228.32.14,Resolved
+CA-CERTMGMT-WIN.togocom.int,10.228.15.35,Resolved
+GCAISSE-AGOENYVE.togocom.int,10.228.14.34,Resolved
+GCAISSE-MON.togocom.int,10.228.14.53,Resolved
+CA-MIXX-AI-ANALYSIS.yas.tg,10.228.10.104,Resolved
+GCAISSE-SOK.togocom.int,10.228.14.40,Resolved
+GCAISSE-AGP.togocom.int,10.228.14.61,Resolved
+yas.tg,104.18.2.27,Resolved
 CA-REPLI-KURVE-DB.togocom.tg,Not found or domain doesn't exist,Not Resolved
-ca-prp-pgw-app.momo.togocom.tg,10.228.15.100,Resolved
-CA-NESSUS.togocom.int,10.228.15.100,Resolved
-CA-VOCAL-DB01.togocom.int,10.228.15.100,Resolved
-CA-ARCGIS.togocom.int,10.228.15.100,Resolved
-LO-ETL-LOC01.togocom.int,10.228.15.100,Resolved
-GCAISSE-NOT.togocom.int,10.228.15.100,Resolved
-LO-KMS-LICENCE.togocom.int,10.228.15.100,Resolved
-BI-FTP.togocom.int,10.228.15.100,Resolved
-LO-VOCAL-ADM02.togocom.int,10.228.15.100,Resolved
-ca-prd-umetl01.momo.togocom.tg,10.228.15.100,Resolved
-VOCAL-DB02-TEST.togocom.int,10.228.15.100,Resolved
-GCAISSE-SOT.togocom.int,10.228.15.100,Resolved
-GCAISSE-AGG.togocom.int,10.228.15.100,Resolved
-LO-EDW-TEST.togocom.int,10.228.15.100,Resolved
-LO-DLH-PWBI-GRAF.togocom.int,10.228.15.100,Resolved
-ca-prd-umutil01.momo.togocom.tg,10.228.15.100,Resolved
-GCAISSE-TOT.togocom.int,10.228.15.100,Resolved
-CA-ATOLL-APP.togocom.int,10.228.15.100,Resolved
-LO-MOMO-EDW01.togocom.int,10.228.15.100,Resolved
-GCAISSE-AML.togocom.int,10.228.15.100,Resolved
-GCAISSE-AHA.togocom.int,10.228.15.100,Resolved
-LO-VOCAL-DB03.togocom.int,10.228.15.100,Resolved
-CA-EDW-ETL02.togocom.int,10.228.15.100,Resolved
-LO-SQL-TEST-02.togocom.int,10.228.15.100,Resolved
-CA-ECHXRT.togocom.int,10.228.15.100,Resolved
-CA-ETL-BI.togocom.int,10.228.15.100,Resolved
-GCAISSE-AERO.togocom.int,10.228.15.100,Resolved
-ca-prd-umdbe01.momo.togocom.tg,10.228.15.100,Resolved
-shr01-nxs1.ws.togocom.tg,10.228.15.100,Resolved
-lo-amiraclient.togocom.int,10.228.15.100,Resolved
-CA-MIXX-FILESRV.togocom.int,10.228.15.100,Resolved
-TG-INFRALO-DC.togocom.int,10.228.15.100,Resolved
-GCAISSE-ANI.togocom.int,10.228.15.100,Resolved
-GCAISSE-ADI.togocom.int,10.228.15.100,Resolved
-GCAISSE-KEV.togocom.int,10.228.15.100,Resolved
-CA-GMAO-MGNT.togocom.int,10.228.15.100,Resolved
-CA-VOCAL-ONXMS1.togocom.int,10.228.15.100,Resolved
-CA-FILSTORSRV.togocom.int,10.228.15.100,Resolved
-GCAISSE-KAN.togocom.int,10.228.15.100,Resolved
+ca-prp-pgw-app.momo.togocom.tg,10.228.18.29,Resolved
+CA-NESSUS.togocom.int,10.228.15.59,Resolved
+CA-VOCAL-DB01.togocom.int,10.228.11.82,Resolved
+CA-ARCGIS.togocom.int,10.228.32.18,Resolved
+LO-ETL-LOC01.togocom.int,10.228.11.235,Resolved
+GCAISSE-NOT.togocom.int,10.228.14.43,Resolved
+LO-KMS-LICENCE.togocom.int,10.228.15.235,Resolved
+BI-FTP.togocom.int,192.168.20.49,Resolved
+LO-VOCAL-ADM02.togocom.int,10.228.11.140,Resolved
+ca-prd-umetl01.momo.togocom.tg,10.228.10.21,Resolved
+VOCAL-DB02-TEST.togocom.int,10.228.11.118,Resolved
+GCAISSE-SOT.togocom.int,10.228.14.29,Resolved
+GCAISSE-AGG.togocom.int,10.228.14.44,Resolved
+LO-EDW-TEST.togocom.int,10.228.11.115,Resolved
+LO-DLH-PWBI-GRAF.togocom.int,10.228.11.197,Resolved
+ca-prd-umutil01.momo.togocom.tg,10.228.10.31,Resolved
+GCAISSE-TOT.togocom.int,10.228.14.32,Resolved
+CA-ATOLL-APP.togocom.int,10.228.32.26,Resolved
+LO-MOMO-EDW01.togocom.int,10.228.11.236,Resolved
+GCAISSE-AML.togocom.int,10.228.14.37,Resolved
+GCAISSE-AHA.togocom.int,10.228.14.52,Resolved
+LO-VOCAL-DB03.togocom.int,10.228.11.142,Resolved
+CA-EDW-ETL02.togocom.int,10.228.11.36,Resolved
+LO-SQL-TEST-02.togocom.int,10.228.15.224,Resolved
+CA-ECHXRT.togocom.int,10.228.15.68,Resolved
+CA-ETL-BI.togocom.int,10.228.15.71,Resolved
+GCAISSE-AERO.togocom.int,10.228.14.55,Resolved
+ca-prd-umdbe01.momo.togocom.tg,10.228.10.28,Resolved
+shr01-nxs1.ws.togocom.tg,10.228.11.12,Resolved
+lo-amiraclient.togocom.int,10.228.15.211,Resolved
+CA-MIXX-FILESRV.togocom.int,10.228.10.107,Resolved
+TG-INFRALO-DC.togocom.int,10.228.15.200,Resolved
+GCAISSE-ANI.togocom.int,10.228.14.24,Resolved
+GCAISSE-ADI.togocom.int,10.228.14.56,Resolved
+GCAISSE-KEV.togocom.int,10.228.14.47,Resolved
+CA-GMAO-MGNT.togocom.int,10.229.10.101,Resolved
+CA-VOCAL-ONXMS1.togocom.int,10.228.11.98,Resolved
+CA-FILSTORSRV.togocom.int,10.228.15.80,Resolved
+GCAISSE-KAN.togocom.int,10.228.14.49,Resolved
 ca-lumata-db01.togocom.tg,Not found or domain doesn't exist,Not Resolved
-CA-EDW-ETL03.togocom.int,10.228.15.100,Resolved
-GCAISSE-KAR.togocom.int,10.228.15.100,Resolved
-CA-RA-ETL.togocom.int,10.228.15.100,Resolved
-dev01-apim1.ws.togocom.tg,10.228.15.100,Resolved
-LO-SEGURA-CONNECTOR.yas.tg,10.228.15.100,Resolved
-CA-BSSOSS-APP03.togocom.int,10.228.15.100,Resolved
-dev01-amq1.ws.togocom.tg,10.228.15.100,Resolved
+CA-EDW-ETL03.togocom.int,10.228.11.37,Resolved
+GCAISSE-KAR.togocom.int,10.228.14.28,Resolved
+CA-RA-ETL.togocom.int,10.228.14.87,Resolved
+dev01-apim1.ws.togocom.tg,10.228.27.12,Resolved
+LO-SEGURA-CONNECTOR.yas.tg,10.228.15.226,Resolved
+CA-BSSOSS-APP03.togocom.int,10.228.12.29,Resolved
+dev01-amq1.ws.togocom.tg,10.228.27.13,Resolved
 CA-GMAODB1.togocom.tg,Not found or domain doesn't exist,Not Resolved
-GCAISSE-CIN.togocom.int,10.228.15.100,Resolved
-LO-USB-LOCK-RP.togocom.int,10.228.15.100,Resolved
-HSM-BCEAO.togocom.int,10.228.15.100,Resolved
-CA-SOSCASS-WIN.togocom.int,10.228.15.100,Resolved
+GCAISSE-CIN.togocom.int,10.228.14.27,Resolved
+LO-USB-LOCK-RP.togocom.int,10.228.15.231,Resolved
+HSM-BCEAO.togocom.int,192.168.20.14,Resolved
+CA-SOSCASS-WIN.togocom.int,10.228.15.70,Resolved
 labcncc1.oam.yas.tg,Not found or domain doesn't exist,Not Resolved
 CA-BALANCE-PLUS01.togocom.int,Not found or domain doesn't exist,Not Resolved
-LO-VOCAL-DB04.togocom.int,10.228.15.100,Resolved
-LO-DHCP02.togocom.int,10.228.15.100,Resolved
-CA-VOCAL-WRTC01.togocom.int,10.228.15.100,Resolved
-GCAISSE-DAN.togocom.int,10.228.15.100,Resolved
-LO-DR-SHR-WSJMPB01.togocom.int,10.228.15.100,Resolved
-CA-XRT-PROD.togocom.int,10.228.15.100,Resolved
-CA-MIXX-CUBE-DB.togocom.int,10.228.15.100,Resolved
-GCAISSE-NIA.togocom.int,10.228.15.100,Resolved
-GCAISSE-MAN.togocom.int,10.228.15.100,Resolved
-GCAISSE-INDEPENDANCE.togocom.int,10.228.15.100,Resolved
-LO-SQL-TEST-01.togocom.int,10.228.15.100,Resolved
-CA-FS01.togocom.int,10.228.15.100,Resolved
-CA-WORK-BI.togocom.int,10.228.15.100,Resolved
+LO-VOCAL-DB04.togocom.int,10.228.11.143,Resolved
+LO-DHCP02.togocom.int,10.228.15.234,Resolved
+CA-VOCAL-WRTC01.togocom.int,10.228.36.99,Resolved
+GCAISSE-DAN.togocom.int,10.228.14.45,Resolved
+LO-DR-SHR-WSJMPB01.togocom.int,10.228.13.231,Resolved
+CA-XRT-PROD.togocom.int,10.228.14.86,Resolved
+CA-MIXX-CUBE-DB.togocom.int,10.228.10.106,Resolved
+GCAISSE-NIA.togocom.int,10.228.14.50,Resolved
+GCAISSE-MAN.togocom.int,10.228.14.39,Resolved
+GCAISSE-INDEPENDANCE.togocom.int,10.228.14.35,Resolved
+LO-SQL-TEST-01.togocom.int,10.228.15.223,Resolved
+CA-FS01.togocom.int,10.228.15.52,Resolved
+CA-WORK-BI.togocom.int,10.228.15.47,Resolved
 CA-RESTO-AMDOCS.togocom.tg,Not found or domain doesn't exist,Not Resolved
 CA-GMAOFRTEND1.togocom.tg,Not found or domain doesn't exist,Not Resolved
-GCAISSE-HED.togocom.int,10.228.15.100,Resolved
-GCAISSE-ATAK.togocom.int,10.228.15.100,Resolved
-CA-VOCAL-ADM01.togocom.int,10.228.15.100,Resolved
+GCAISSE-HED.togocom.int,10.228.14.60,Resolved
+GCAISSE-ATAK.togocom.int,10.228.14.41,Resolved
+CA-VOCAL-ADM01.togocom.int,10.228.11.136,Resolved
 CA-ESERVICES-DB02.togocom.tg,Not found or domain doesn't exist,Not Resolved
-TG-CA-PRIM-DC.togocom.int,10.228.15.100,Resolved
-Data-Driven-SND.togocom.int,10.228.15.100,Resolved
-ca-nano-credit.togocom.int,10.228.15.100,Resolved
-CA-POWERBI.togocom.int,10.228.15.100,Resolved
+TG-CA-PRIM-DC.togocom.int,192.168.20.20,Resolved
+Data-Driven-SND.togocom.int,10.228.15.46,Resolved
+ca-nano-credit.togocom.int,10.228.15.49,Resolved
+CA-POWERBI.togocom.int,10.228.15.48,Resolved
 CA-PRD-CARBONLOGS01.togocom.tg,Not found or domain doesn't exist,Not Resolved
-GUAC-APP-RDP.togocom.int,10.228.15.100,Resolved
-GCAISSE-KPA.togocom.int,10.228.15.100,Resolved
+GUAC-APP-RDP.togocom.int,10.228.40.113,Resolved
+GCAISSE-KPA.togocom.int,10.228.14.42,Resolved
 ccvcnmepc.yas.tg,Not found or domain doesn't exist,Not Resolved
 ccvcnmoff.yas.tg,Not found or domain doesn't exist,Not Resolved
 ccvcnmims.yas.tg,Not found or domain doesn't exist,Not Resolved
@@ -144,26 +144,26 @@ citus-worker2,Not found or domain doesn't exist,Not Resolved
 citus-master,Not found or domain doesn't exist,Not Resolved
 citus-worker1,Not found or domain doesn't exist,Not Resolved
 LO-RFI-FRANCE24.yas.tg,Not found or domain doesn't exist,Not Resolved
-PG-POOL-2.togocom.tg,10.228.15.100,Resolved
-CA-PRD-SUPER-ELK.TOGOCOM.TG,10.228.15.100,Resolved
-LO-PRD01-BILL02.mdw.togocom.tg,10.228.15.100,Resolved
+PG-POOL-2.togocom.tg,10.228.12.46,Resolved
+CA-PRD-SUPER-ELK.TOGOCOM.TG,10.228.12.39,Resolved
+LO-PRD01-BILL02.mdw.togocom.tg,10.228.11.219,Resolved
 CA-GMAOAPP1.TOGOCOM.TG,Not found or domain doesn't exist,Not Resolved
 CA-PRD-WSAMQP01.ws.togocom.tg,Not found or domain doesn't exist,Not Resolved
-LO-PRD-KUBE-WORKER-NODE-05.togocom.int,10.228.15.100,Resolved
+LO-PRD-KUBE-WORKER-NODE-05.togocom.int,10.228.15.240,Resolved
 lo-prd-umdbo003.yas.tg,Not found or domain doesn't exist,Not Resolved
-CA-PRD-WSMINT03.ws.togocom.tg,10.228.15.100,Resolved
+CA-PRD-WSMINT03.ws.togocom.tg,10.228.13.37,Resolved
 LO-PRD-UMCON23.MOMO.TOGOCOM.TG,Not found or domain doesn't exist,Not Resolved
 lo-idm02.togocom.tg,Not found or domain doesn't exist,Not Resolved
 k8s-master03.yas.tg,Not found or domain doesn't exist,Not Resolved
 LO-PRP-SENT-DB01.yas.tg,Not found or domain doesn't exist,Not Resolved
 LAB-PGSQL01.togocom.tg,Not found or domain doesn't exist,Not Resolved
-ca-prd-momo-app01.momo.togocom.tg,10.228.15.100,Resolved
+ca-prd-momo-app01.momo.togocom.tg,10.228.12.22,Resolved
 LO-UAT-UMDBR001.momo.togocom.tg,Not found or domain doesn't exist,Not Resolved
-LO-PRD-KUBE-WORKER-NODE-03.togocom.int,10.228.15.100,Resolved
-6d-middle1-repli.TOGOCOM.TG,10.228.15.100,Resolved
+LO-PRD-KUBE-WORKER-NODE-03.togocom.int,10.228.11.249,Resolved
+6d-middle1-repli.TOGOCOM.TG,10.228.12.53,Resolved
 interconnect.togocom.int,Not found or domain doesn't exist,Not Resolved
 CA-PRD-SUPER-MS-01.togocom.tg,Not found or domain doesn't exist,Not Resolved
-CA-PRD-REIS-PROXY.yas.tg,10.228.15.100,Resolved
+CA-PRD-REIS-PROXY.yas.tg,10.228.10.102,Resolved
 LO-DR-WSMINT04.togocom.tg,Not found or domain doesn't exist,Not Resolved
 CA-PRP-WSPGSQL01.ws.togocom.tg,Not found or domain doesn't exist,Not Resolved
 CA-SMSCPROD09.yas.tg,Not found or domain doesn't exist,Not Resolved
@@ -171,80 +171,80 @@ ca-bastion-apache-01.yas.tg,Not found or domain doesn't exist,Not Resolved
 LO-UTS-APP.togocom.tg,Not found or domain doesn't exist,Not Resolved
 tgcdb1.yas.tg,Not found or domain doesn't exist,Not Resolved
 LO-PRD-UMCON008.momo.yas.tg,Not found or domain doesn't exist,Not Resolved
-LO-PRD-KUBE-WORKER-NODE-04.togocom.int,10.228.15.100,Resolved
+LO-PRD-KUBE-WORKER-NODE-04.togocom.int,10.228.11.250,Resolved
 cbdb-datanode01.yas.tg,Not found or domain doesn't exist,Not Resolved
 CA-PRD-CORP-MS01.mixx.tg,Not found or domain doesn't exist,Not Resolved
 LO-PRD-UMDBR-03.togocom.tg,Not found or domain doesn't exist,Not Resolved
 ca-prd-umdbo001.momo.togocom.tg,Not found or domain doesn't exist,Not Resolved
 tgcinv2.yas.tg,Not found or domain doesn't exist,Not Resolved
-CA-PRD-WSKIBN02.ws.togocom.tg,10.228.15.100,Resolved
+CA-PRD-WSKIBN02.ws.togocom.tg,10.228.13.23,Resolved
 LO-PRD-UMCON005.momo.yas.tg,Not found or domain doesn't exist,Not Resolved
 LO-GED-PROD-04.togocom.tg,Not found or domain doesn't exist,Not Resolved
-lo-edw-db04.dwh.togocom.tg,10.228.15.100,Resolved
+lo-edw-db04.dwh.togocom.tg,10.228.11.244,Resolved
 lo-lab_pgsql-12.togocom.tg,Not found or domain doesn't exist,Not Resolved
 lome-d-dhcp.yas.tg,Not found or domain doesn't exist,Not Resolved
-PG-POOL-1.togocom.tg,10.228.15.100,Resolved
+PG-POOL-1.togocom.tg,10.228.12.36,Resolved
 lo-cdp-impact-db01-restore08mars.yas.tg,Not found or domain doesn't exist,Not Resolved
 CA-ACS-HCL-CL02.togocom.tg,Not found or domain doesn't exist,Not Resolved
 LO-USMDBPROD02.yas.tg,Not found or domain doesn't exist,Not Resolved
 LO-PRD-UMENG23.MOMO.TOGOCOM.TG,Not found or domain doesn't exist,Not Resolved
-CA-PRD-SUPER-RS-02.TOGOCOM.TG,10.228.15.100,Resolved
+CA-PRD-SUPER-RS-02.TOGOCOM.TG,10.228.12.34,Resolved
 lo-qs3.yas.tg,Not found or domain doesn't exist,Not Resolved
 LO-DR-WSAPIM02.ws.togocom.tg,Not found or domain doesn't exist,Not Resolved
 LO-SMS-FIREWALL05.togocom.tg,Not found or domain doesn't exist,Not Resolved
 CA-PRD-UMCON17.momo.togocom.tg,Not found or domain doesn't exist,Not Resolved
-tst01-db1.ws.togocom.tg,10.228.15.100,Resolved
-CA-PRD-SUPER-DBCLUS-03.togocom.tg,10.228.15.100,Resolved
+tst01-db1.ws.togocom.tg,10.228.27.18,Resolved
+CA-PRD-SUPER-DBCLUS-03.togocom.tg,10.228.12.45,Resolved
 CA-PRD-UMENG19.momo.togocom.tg,Not found or domain doesn't exist,Not Resolved
 LAB-PGSQL03.togocom.tg,Not found or domain doesn't exist,Not Resolved
 LO-PRP-REIS-DB.yas.tg,Not found or domain doesn't exist,Not Resolved
-prp01-okdm4.ws.togocom.tg,10.228.15.100,Resolved
+prp01-okdm4.ws.togocom.tg,10.228.19.201,Resolved
 LO-BASTION-APACHE-DN.yas.tg,Not found or domain doesn't exist,Not Resolved
 ns002.yas.tg,Not found or domain doesn't exist,Not Resolved
 cbdb-coordinator.yas.tg,Not found or domain doesn't exist,Not Resolved
 LO-PRP-REIS-APP.yas.tg,Not found or domain doesn't exist,Not Resolved
 proxmox-02.yas.tg,Not found or domain doesn't exist,Not Resolved
 lo-uat-dim-db.momo.togocom.tg,Not found or domain doesn't exist,Not Resolved
-CA-PRD-SELFCARE-MS-01.togocom.tg,10.228.15.100,Resolved
+CA-PRD-SELFCARE-MS-01.togocom.tg,10.228.12.60,Resolved
 CA-PRD-ANSIBLE.infra.yas.tg,Not found or domain doesn't exist,Not Resolved
-CA-SMS-FW-TESTBED01.togocom.tg,10.228.15.100,Resolved
-CA-PRP-WSAPIG01.ws.togocom.tg,10.228.15.100,Resolved
+CA-SMS-FW-TESTBED01.togocom.tg,10.228.27.75,Resolved
+CA-PRP-WSAPIG01.ws.togocom.tg,10.228.19.26,Resolved
 CA-BASTION-APACHE-02.yas.tg,Not found or domain doesn't exist,Not Resolved
 LO-DR-WSPGSQL01.ws.togocom.tg,Not found or domain doesn't exist,Not Resolved
 LO-UAT-WSMINT02.ws.togocom.tg,Not found or domain doesn't exist,Not Resolved
-CA-ECHANGE-POS-X3-DB.TOGOCOM.INT,10.228.15.100,Resolved
+CA-ECHANGE-POS-X3-DB.TOGOCOM.INT,10.228.14.65,Resolved
 ca-prd-cms-webdb-01.togocom.tg,Not found or domain doesn't exist,Not Resolved
-CA-BSSOSS-APP-02.togocom.tg,10.228.15.100,Resolved
+CA-BSSOSS-APP-02.togocom.tg,10.228.12.28,Resolved
 lo-archivelog01.togocom.tg,Not found or domain doesn't exist,Not Resolved
 LO-PRD-UMENG24.MOMO.TOGOCOM.TG,Not found or domain doesn't exist,Not Resolved
-lo-cms-test-01.togocom.tg,10.228.15.100,Resolved
-CA-PRD-REIS-ELASTICSEARCH.yas.tg,10.228.15.100,Resolved
+lo-cms-test-01.togocom.tg,10.228.30.200,Resolved
+CA-PRD-REIS-ELASTICSEARCH.yas.tg,10.228.10.101,Resolved
 CA-ACS-AVSYSTEM.togocom.tg,Not found or domain doesn't exist,Not Resolved
 ca-wifi-portailcaptif.togocom.tg,Not found or domain doesn't exist,Not Resolved
 LO-PRD01-DBBILL.yas.tg,Not found or domain doesn't exist,Not Resolved
 ca-prd-cms-ccs-05.togocom.tg,Not found or domain doesn't exist,Not Resolved
 CA-PRD-UMDBO001-TEST-03.momo.togocom.tg,Not found or domain doesn't exist,Not Resolved
 LAB-PGSQL02.togocom.tg,Not found or domain doesn't exist,Not Resolved
-lo-prd-umeng05.momo.togocom.tg,10.228.15.100,Resolved
+lo-prd-umeng05.momo.togocom.tg,10.228.10.206,Resolved
 nperf-kara.yas.tg,Not found or domain doesn't exist,Not Resolved
-LO-PRD-PI-BCEAO-02.yas.tg,10.228.15.100,Resolved
+LO-PRD-PI-BCEAO-02.yas.tg,10.228.11.131,Resolved
 cbdb-datanode03.yas.tg,Not found or domain doesn't exist,Not Resolved
-CA-ATOLL-DB.yas.tg,10.228.15.100,Resolved
-LAB-PGW.yas.tg,10.228.15.100,Resolved
-CA-PRD-CORP-MS1.mixx.tg,10.228.15.100,Resolved
-CA-MSA-MONITORING.togocom.tg,10.228.15.100,Resolved
-LO-SIMU-DMS-OTA02.TOGOCOM.TG,10.228.15.100,Resolved
+CA-ATOLL-DB.yas.tg,10.228.32.27,Resolved
+LAB-PGW.yas.tg,192.168.20.118,Resolved
+CA-PRD-CORP-MS1.mixx.tg,10.228.12.82,Resolved
+CA-MSA-MONITORING.togocom.tg,10.228.12.49,Resolved
+LO-SIMU-DMS-OTA02.TOGOCOM.TG,10.228.11.126,Resolved
 LO-PRP-REIS-ELASTICSEARCH.yas.tg,Not found or domain doesn't exist,Not Resolved
 CA-PRD-UMWEB1.TOGOCOM.TG,Not found or domain doesn't exist,Not Resolved
 LO-UAT-WSMINT01.ws.togocom.tg,Not found or domain doesn't exist,Not Resolved
-CA-DRIVE-TEST.togocom.tg,10.228.15.100,Resolved
+CA-DRIVE-TEST.togocom.tg,10.228.32.24,Resolved
 LO-DR-WSAPIG01.ws.togocom.tg,Not found or domain doesn't exist,Not Resolved
 CA-PRD-SHR-WSCICD01.ws.togocom.tg,Not found or domain doesn't exist,Not Resolved
 LO-DEV-KUBE-WORKER-NODE-02.togocom.tg,Not found or domain doesn't exist,Not Resolved
 WORKER1-NODE.yas.tg,Not found or domain doesn't exist,Not Resolved
 CA-PRP-KUBE-WORKER-NODE-01.yas.tg,Not found or domain doesn't exist,Not Resolved
 srvvas4.yas.tg,Not found or domain doesn't exist,Not Resolved
-CA-PRD-SENT-APP02.togocom.tg,10.228.15.100,Resolved
+CA-PRD-SENT-APP02.togocom.tg,10.228.12.66,Resolved
 LO-PRP-UMWEB002.yas.tg,Not found or domain doesn't exist,Not Resolved
 lo-uat-momo-app.momo.togocom.tg,Not found or domain doesn't exist,Not Resolved
 LO-DR-WSAPIG03.ws.togocom.tg,Not found or domain doesn't exist,Not Resolved
@@ -252,63 +252,63 @@ CA-PRD-WSAPIM01.ws.togocom.tg,Not found or domain doesn't exist,Not Resolved
 ca-prd-dim-app02.momo.togocom.tg,Not found or domain doesn't exist,Not Resolved
 ip.yas.tg,Not found or domain doesn't exist,Not Resolved
 CA-EDR-FIREEYE.togocom.tg,Not found or domain doesn't exist,Not Resolved
-CA-PRD-SUPER-MS-03.togocom.tg,10.228.15.100,Resolved
+CA-PRD-SUPER-MS-03.togocom.tg,10.228.12.42,Resolved
 LO-PRD-DBNONBILL.mdw.togocom.tg,Not found or domain doesn't exist,Not Resolved
 CA-PRD-UMWEB2.TOGOCOM.TG,Not found or domain doesn't exist,Not Resolved
 LO-DR-SHR-WSCICD01.ws.togocom.tg,Not found or domain doesn't exist,Not Resolved
 LO-PRD-UMENG005.momo.yas.tg,Not found or domain doesn't exist,Not Resolved
-prp01-db1.ws.togocom.tg,10.228.15.100,Resolved
+prp01-db1.ws.togocom.tg,10.228.19.20,Resolved
 ca-prd-cms-rtp-02.togocom.tg,Not found or domain doesn't exist,Not Resolved
 CA-PRD-UMENG18.MOMO.TOGOCOM.TG,Not found or domain doesn't exist,Not Resolved
 CA-PRD-OPA-TRANSDB.yas.tg,Not found or domain doesn't exist,Not Resolved
 lo-uat-sync-db01.togocom.tg,Not found or domain doesn't exist,Not Resolved
-CA-RA-ANALYS-APP.TOGOCOM.INT,10.228.15.100,Resolved
+CA-RA-ANALYS-APP.TOGOCOM.INT,10.228.14.68,Resolved
 CA-HAPROXYSHR.yas.tg,Not found or domain doesn't exist,Not Resolved
-CA-PRP-WSLB.ws.togocom.tg,10.228.15.100,Resolved
+CA-PRP-WSLB.ws.togocom.tg,10.228.19.42,Resolved
 test-db02.yas.tg,Not found or domain doesn't exist,Not Resolved
-CA-BACKEND-DB01.togocom.tg,10.228.15.100,Resolved
-CA-FILE-NETACT-DP01.togocom.tg,10.228.15.100,Resolved
+CA-BACKEND-DB01.togocom.tg,10.228.15.37,Resolved
+CA-FILE-NETACT-DP01.togocom.tg,10.228.32.17,Resolved
 LO-PRD-UMCON013.momo.yas.tg,Not found or domain doesn't exist,Not Resolved
-CA-BSSOSS-DB-01.togocom.tg,10.228.15.100,Resolved
+CA-BSSOSS-DB-01.togocom.tg,10.228.12.30,Resolved
 cbdb-datanode05.yas.tg,Not found or domain doesn't exist,Not Resolved
 ca-prp-wsdbe02.togocom.tg,Not found or domain doesn't exist,Not Resolved
 CA-DEV-CARBONLOGS01.togocom.tg,Not found or domain doesn't exist,Not Resolved
 lo-ra01-clone.togocom.tg,Not found or domain doesn't exist,Not Resolved
 lo-kurve-db-clone.momo.togocom.tg,Not found or domain doesn't exist,Not Resolved
 CA-PRP-WSPGSQL02.ws.togocom.tg,Not found or domain doesn't exist,Not Resolved
-ns02.togocom.tg,10.228.15.100,Resolved
-CA-PRD-REIS-APP.yas.tg,10.228.15.100,Resolved
-ca-support-tmoney.togocom.tg,10.228.15.100,Resolved
+ns02.togocom.tg,10.228.40.209,Resolved
+CA-PRD-REIS-APP.yas.tg,10.228.10.100,Resolved
+ca-support-tmoney.togocom.tg,10.228.40.100,Resolved
 LO-PRP-SENT-NFS.yas.tg,Not found or domain doesn't exist,Not Resolved
 CA-TEST-SECURITY-EDM.TOGOCOM.TG,Not found or domain doesn't exist,Not Resolved
-prd01-okdn4.ws.togocom.tg,10.228.15.100,Resolved
-CA-RA-ANALYS-DB.TOGOCOM.INT,10.228.15.100,Resolved
+prd01-okdn4.ws.togocom.tg,10.228.11.205,Resolved
+CA-RA-ANALYS-DB.TOGOCOM.INT,10.228.14.67,Resolved
 lo-lab_pgsql-10.togocom.tg,Not found or domain doesn't exist,Not Resolved
 CA-PRD-CMS-EGW-03.togocom.tg,Not found or domain doesn't exist,Not Resolved
 LO-PRD-UMCON006.momo.yas.tg,Not found or domain doesn't exist,Not Resolved
 test-app01.yas.tg,Not found or domain doesn't exist,Not Resolved
 LO-PRD-UMENG22.MOMO.TOGOCOM.TG,Not found or domain doesn't exist,Not Resolved
 CA-SIMU-EIR-OTA01.TOGOCOM.TG,Not found or domain doesn't exist,Not Resolved
-prp01-efk1.ws.togocom.tg,10.228.15.100,Resolved
-CA-PRD-YAS-DB02.momo.togocom.tg,10.228.15.100,Resolved
+prp01-efk1.ws.togocom.tg,10.228.19.19,Resolved
+CA-PRD-YAS-DB02.momo.togocom.tg,10.228.10.94,Resolved
 CA-USMMNGT01.yas.tg,Not found or domain doesn't exist,Not Resolved
 lo-uat-dim-app.momo.togocom.tg,Not found or domain doesn't exist,Not Resolved
-CA-KPI-CO-WORKER-03.yas.tg,10.228.15.100,Resolved
+CA-KPI-CO-WORKER-03.yas.tg,10.232.13.36,Resolved
 lo-prp-sync-app.togocom.tg,Not found or domain doesn't exist,Not Resolved
-prp01-okdm2.ws.togocom.tg,10.228.15.100,Resolved
+prp01-okdm2.ws.togocom.tg,10.228.19.13,Resolved
 Thomass-MacBook-Pro.local.yas.tg,Not found or domain doesn't exist,Not Resolved
 CA-CMGEDR.yas.tg,Not found or domain doesn't exist,Not Resolved
 CA-USMMNGT02.yas.tg,Not found or domain doesn't exist,Not Resolved
-lo-edw-db02.dwh.togocom.tg,10.228.15.100,Resolved
+lo-edw-db02.dwh.togocom.tg,10.228.11.247,Resolved
 LO-PRD-UMWEB3.TOGOCOM.TG,Not found or domain doesn't exist,Not Resolved
-helpdesk.togocom.tg,10.228.15.100,Resolved
+helpdesk.togocom.tg,10.228.40.100,Resolved
 lo-edw-gpl02.dwh.togocom.tg,Not found or domain doesn't exist,Not Resolved
 LO-DEV-WSAPIG01.ws.togocom.tg,Not found or domain doesn't exist,Not Resolved
 lo-prd-dda02.togocom.tg,Not found or domain doesn't exist,Not Resolved
 CA-USMUAT02.yas.tg,Not found or domain doesn't exist,Not Resolved
 CA-PRD-KUBE-WORKER-NODE-03.yas.tg,Not found or domain doesn't exist,Not Resolved
 ca-prd-umdbo005.yas.tg,Not found or domain doesn't exist,Not Resolved
-lo-prd-umcon06.momo.togocom.tg,10.228.15.100,Resolved
+lo-prd-umcon06.momo.togocom.tg,10.228.10.203,Resolved
 ca-centos-test.togocom.tg,Not found or domain doesn't exist,Not Resolved
 CA-USMDBPROD01.yas.tg,Not found or domain doesn't exist,Not Resolved
 LO-PRP-SUPER-ELK.togocom.tg,Not found or domain doesn't exist,Not Resolved
@@ -318,173 +318,173 @@ CA-PRD-UMCON16.momo.togocom.tg,Not found or domain doesn't exist,Not Resolved
 CA-PRD-UMCON15.momo.togocom.tg,Not found or domain doesn't exist,Not Resolved
 LO-PRP-REIS-PROXY.yas.tg,Not found or domain doesn't exist,Not Resolved
 ca-prd-cms-ccs-06.togocom.tg,Not found or domain doesn't exist,Not Resolved
-CA-PRP-PDR.yas.tg,10.228.15.100,Resolved
+CA-PRP-PDR.yas.tg,10.228.20.22,Resolved
 CA-DT-DNS-GRAFANA.yas.tg,Not found or domain doesn't exist,Not Resolved
-prd01-db2.ws.togocom.tg,10.228.15.100,Resolved
-CA-PRD-SUPER-RPDB-01.TOGOCOM.TG,10.228.15.100,Resolved
-prp01-apimnt1.ws.togocom.tg,10.228.15.100,Resolved
+prd01-db2.ws.togocom.tg,10.228.11.210,Resolved
+CA-PRD-SUPER-RPDB-01.TOGOCOM.TG,10.228.12.47,Resolved
+prp01-apimnt1.ws.togocom.tg,10.228.19.206,Resolved
 cbdb-standbycoordinator.yas.tg,Not found or domain doesn't exist,Not Resolved
 ca-prd-cms-ccs-04.togocom.tg,Not found or domain doesn't exist,Not Resolved
-CA-SMS-FIREWALL01.togocom.tg,10.228.15.100,Resolved
-lo-prd-umdbe04.momo.togocom.tg,10.228.15.100,Resolved
+CA-SMS-FIREWALL01.togocom.tg,10.228.11.75,Resolved
+lo-prd-umdbe04.momo.togocom.tg,10.228.10.217,Resolved
 LO-PRP-SYNC-APP02.yas.tg,Not found or domain doesn't exist,Not Resolved
 CA-PRD-UMDBO001-TEST-01.momo.togocom.tg,Not found or domain doesn't exist,Not Resolved
-dev01-okd1.ws.togocom.tg,10.228.15.100,Resolved
+dev01-okd1.ws.togocom.tg,10.228.27.11,Resolved
 CA-DEVICE-OTA.yas.tg,Not found or domain doesn't exist,Not Resolved
-CA-WEBSITE-DB-01.togocom.tg,10.228.15.100,Resolved
+CA-WEBSITE-DB-01.togocom.tg,10.228.12.57,Resolved
 CA-PRD-UMENG009.momo.togocom.tg,Not found or domain doesn't exist,Not Resolved
-helpdesklab.togocom.tg,10.228.15.100,Resolved
+helpdesklab.togocom.tg,10.228.23.213,Resolved
 CA-EKS-ADM-CPU.yas.tg,Not found or domain doesn't exist,Not Resolved
-CA-PRD-WSPGSQL01.ws.togocom.tg,10.228.15.100,Resolved
-CA-PRP-WSAMQP02.ws.togocom.tg,10.228.15.100,Resolved
+CA-PRD-WSPGSQL01.ws.togocom.tg,10.228.13.11,Resolved
+CA-PRP-WSAMQP02.ws.togocom.tg,10.228.19.25,Resolved
 ca-prd-dim-redis.togocom.tg,Not found or domain doesn't exist,Not Resolved
 tgctbd1.yas.tg,Not found or domain doesn't exist,Not Resolved
 tg-togocel-rbt-01.yas.tg,Not found or domain doesn't exist,Not Resolved
-ca-vtom01.togocom.tg,10.228.15.100,Resolved
+ca-vtom01.togocom.tg,10.228.54.11,Resolved
 ca-prd-cms-egw-01.togocom.tg,Not found or domain doesn't exist,Not Resolved
 LO-DR-WSELKS01.ws.togocom.tg,Not found or domain doesn't exist,Not Resolved
-CA-BSSOSS-APP-01.togocom.tg,10.228.15.100,Resolved
-ca-prp-pgw-db.momo.togocom.tg,10.228.15.100,Resolved
+CA-BSSOSS-APP-01.togocom.tg,10.228.12.27,Resolved
+ca-prp-pgw-db.momo.togocom.tg,10.228.18.30,Resolved
 CA-PRD-UMWEB002.momo.togocom.tg,Not found or domain doesn't exist,Not Resolved
 tgctbd2.yas.tg,Not found or domain doesn't exist,Not Resolved
 cbdb-datanode06.yas.tg,Not found or domain doesn't exist,Not Resolved
-CA-PRP-WSAPIM01.ws.togocom.tg,10.228.15.100,Resolved
+CA-PRP-WSAPIM01.ws.togocom.tg,10.228.19.31,Resolved
 CA-PRD-UMCON009.momo.togocom.tg,Not found or domain doesn't exist,Not Resolved
-lo-prd-umeng07.momo.togocom.tg,10.228.15.100,Resolved
+lo-prd-umeng07.momo.togocom.tg,10.228.10.208,Resolved
 CA-SIMU-DMS-OTA01.TOGOCOM.TG,Not found or domain doesn't exist,Not Resolved
-ca-poc.yas.tg,10.228.15.100,Resolved
+ca-poc.yas.tg,10.232.13.42,Resolved
 CA-ACS-HCL-CL01.togocom.tg,Not found or domain doesn't exist,Not Resolved
-lo-tap-server.togocom.tg,10.228.15.100,Resolved
-shr01-jnk1.ws.togocom.tg,10.228.15.100,Resolved
+lo-tap-server.togocom.tg,10.228.14.20,Resolved
+shr01-jnk1.ws.togocom.tg,10.228.11.11,Resolved
 CA-BASTION-APACHE.togocom.tg,Not found or domain doesn't exist,Not Resolved
-CA-PRD-CORP-MS02.mixx.tg,10.228.15.100,Resolved
-lo-edw-gpl01.dwh.togocom.tg,10.228.15.100,Resolved
-CA-KPI-CO-DB-SLAVE-03.yas.tg,10.228.15.100,Resolved
-ca-prd-umdbr01.momo.togocom.tg,10.228.15.100,Resolved
-ca-prd-momo-db.momo.togocom.tg,10.228.15.100,Resolved
+CA-PRD-CORP-MS02.mixx.tg,10.228.12.83,Resolved
+lo-edw-gpl01.dwh.togocom.tg,10.228.11.246,Resolved
+CA-KPI-CO-DB-SLAVE-03.yas.tg,10.232.13.40,Resolved
+ca-prd-umdbr01.momo.togocom.tg,10.228.10.24,Resolved
+ca-prd-momo-db.momo.togocom.tg,10.228.12.24,Resolved
 lo-kurve-app.momo.togocom.tg,Not found or domain doesn't exist,Not Resolved
-LO-PRD-KUBE-MASTER-02.togocom.int,10.228.15.100,Resolved
+LO-PRD-KUBE-MASTER-02.togocom.int,10.228.11.248,Resolved
 LO-DR-WSAPIG02.ws.togocom.tg,Not found or domain doesn't exist,Not Resolved
-prd01-okdm2.ws.togocom.tg,10.228.15.100,Resolved
-CA-ZABBIX.togocom.tg,10.228.15.100,Resolved
-CA-PRD01-DBBANK.mdw.togocom.tg,10.228.15.100,Resolved
+prd01-okdm2.ws.togocom.tg,10.228.11.15,Resolved
+CA-ZABBIX.togocom.tg,10.228.15.26,Resolved
+CA-PRD01-DBBANK.mdw.togocom.tg,10.228.11.52,Resolved
 lo-ra01.togocom.tg,Not found or domain doesn't exist,Not Resolved
 LO-PRP-SENT-APP02.yas.tg,Not found or domain doesn't exist,Not Resolved
 LO-DEV-WSGW.ws.togocom.tg,Not found or domain doesn't exist,Not Resolved
 LO-USMMNGT02.yas.tg,Not found or domain doesn't exist,Not Resolved
-prp01-intmnt1.ws.togocom.tg,10.228.15.100,Resolved
+prp01-intmnt1.ws.togocom.tg,10.228.19.18,Resolved
 ca-eservice-db.togocom.tg,Not found or domain doesn't exist,Not Resolved
 CA-CERTMGMT-LINUX.togocom.tg,Not found or domain doesn't exist,Not Resolved
 LO-PRP-ANSIBLE.yas.tg,Not found or domain doesn't exist,Not Resolved
-lo-prp-sent-app.togocom.tg,10.228.15.100,Resolved
-tst01-okd1.ws.togocom.tg,10.228.15.100,Resolved
+lo-prp-sent-app.togocom.tg,10.228.20.202,Resolved
+tst01-okd1.ws.togocom.tg,10.228.27.15,Resolved
 tgcupc2.yas.tg,Not found or domain doesn't exist,Not Resolved
 ca-lumata-db02.togocom.tg,Not found or domain doesn't exist,Not Resolved
 LO-UAT-WSGW.ws.togocom.tg,Not found or domain doesn't exist,Not Resolved
-CA-PRD-PI-BCEAO-01.yas.tg,10.228.15.100,Resolved
+CA-PRD-PI-BCEAO-01.yas.tg,10.228.11.122,Resolved
 CA-WEB-SERVER.yas.tg,Not found or domain doesn't exist,Not Resolved
-CA-PRD-WSMINT01.ws.togocom.tg,10.228.15.100,Resolved
-ca-nginx-proxy.togocom.tg,10.228.15.100,Resolved
+CA-PRD-WSMINT01.ws.togocom.tg,10.228.13.29,Resolved
+ca-nginx-proxy.togocom.tg,10.228.40.100,Resolved
 CA-PRD-WSAMQP02.ws.togocom.tg,Not found or domain doesn't exist,Not Resolved
-zabbix.yas.tg,10.228.15.100,Resolved
+zabbix.yas.tg,10.228.15.26,Resolved
 LO-TOGOCOM-DRIVE.TOGOCOM.TG,Not found or domain doesn't exist,Not Resolved
 CA-PRD-UMCON002.momo.togocom.tg,Not found or domain doesn't exist,Not Resolved
-lo-prd-umetl02.momo.togocom.tg,10.228.15.100,Resolved
-CA-PRD-REIS-DB.yas.tg,10.228.15.100,Resolved
-prd01-okdm1.ws.togocom.tg,10.228.15.100,Resolved
-CA-PRP-KUBE-MASTER.togocom.tg,10.228.15.100,Resolved
+lo-prd-umetl02.momo.togocom.tg,10.228.10.210,Resolved
+CA-PRD-REIS-DB.yas.tg,10.228.10.103,Resolved
+prd01-okdm1.ws.togocom.tg,10.228.11.14,Resolved
+CA-PRP-KUBE-MASTER.togocom.tg,10.228.11.89,Resolved
 iscsi-shared_infra_yas_tg,Not found or domain doesn't exist,Not Resolved
-ca-prd-sent-db01.togocom.tg,10.228.15.100,Resolved
+ca-prd-sent-db01.togocom.tg,10.228.12.14,Resolved
 LO-PRP-SUPER-JUMP.TOGOCOM.TG,Not found or domain doesn't exist,Not Resolved
 CA-USMSTGMNGT01.yas.tg,Not found or domain doesn't exist,Not Resolved
-CA-PROD-KAFKA.togocom.tg,10.228.15.100,Resolved
+CA-PROD-KAFKA.togocom.tg,10.228.11.67,Resolved
 CA-USMSTG01.yas.tg,Not found or domain doesn't exist,Not Resolved
 LO-DR-WSAPIM01.ws.togocom.tg,Not found or domain doesn't exist,Not Resolved
 CA-GED-TEST02.yas.tg,Not found or domain doesn't exist,Not Resolved
 CA-PRD-UMCON003.momo.togocom.tg,Not found or domain doesn't exist,Not Resolved
-LO-PRD01-BILL01.mdw.togocom.tg,10.228.15.100,Resolved
+LO-PRD01-BILL01.mdw.togocom.tg,10.228.11.218,Resolved
 ca-prd-momo-redis.momo.togocom.tg,Not found or domain doesn't exist,Not Resolved
 ca-prd-cms-webdb-02.togocom.tg,Not found or domain doesn't exist,Not Resolved
 LO-PRP-SYNC-DB01.yas.tg,Not found or domain doesn't exist,Not Resolved
 LO-UAT-UMWEB001.momo.togocom.tg,Not found or domain doesn't exist,Not Resolved
-CA-PRP-WSMINT01.ws.togocom.tg,10.228.15.100,Resolved
-ca-tst-db.mdw.togocom.tg,10.228.15.100,Resolved
+CA-PRP-WSMINT01.ws.togocom.tg,10.228.19.33,Resolved
+ca-tst-db.mdw.togocom.tg,10.228.27.23,Resolved
 LO-PRP-SENT-DB02.yas.tg,Not found or domain doesn't exist,Not Resolved
 CA-PRD-OPA-WAF.yas.tg,Not found or domain doesn't exist,Not Resolved
 ca-prd-sync-db02.togocom.tg,Not found or domain doesn't exist,Not Resolved
 mysql-db-replicat.yas.tg,Not found or domain doesn't exist,Not Resolved
 tgcdb3.yas.tg,Not found or domain doesn't exist,Not Resolved
-prp01-efk2.ws.togocom.tg,10.228.15.100,Resolved
+prp01-efk2.ws.togocom.tg,10.228.19.207,Resolved
 CA-REPOSITORY-R8.togocom.tg,Not found or domain doesn't exist,Not Resolved
 tgcrpt1.yas.tg,Not found or domain doesn't exist,Not Resolved
 ca-prd-umdbo002.momo.togocom.tg,Not found or domain doesn't exist,Not Resolved
 LO-DEV-WSPGSQL01.ws.togocom.tg,Not found or domain doesn't exist,Not Resolved
-shr01-jnk2.ws.togocom.tg,10.228.15.100,Resolved
+shr01-jnk2.ws.togocom.tg,10.228.11.200,Resolved
 LO-WAR-ROOM-DATA-API.togocom.tg,Not found or domain doesn't exist,Not Resolved
 LO-DEV-WSMINT02.ws.togocom.tg,Not found or domain doesn't exist,Not Resolved
 ca-prd-cms-ccs-01.togocom.tg,Not found or domain doesn't exist,Not Resolved
 LO-PRP-SYNC-NFS.yas.tg,Not found or domain doesn't exist,Not Resolved
-prp01-apim1.ws.togocom.tg,10.228.15.100,Resolved
-CA-FTP-ESIM.togocom.tg,10.228.15.100,Resolved
+prp01-apim1.ws.togocom.tg,10.228.19.16,Resolved
+CA-FTP-ESIM.togocom.tg,10.228.12.59,Resolved
 LO-SMSCPROD12.yas.tg,Not found or domain doesn't exist,Not Resolved
 ca-prd-cms-analytics-01.togocom.tg,Not found or domain doesn't exist,Not Resolved
-ca-dev-db.mdw.togocom.tg,10.228.15.100,Resolved
-CA-GED-BACKUP.togocom.tg,10.228.15.100,Resolved
+ca-dev-db.mdw.togocom.tg,10.228.27.21,Resolved
+CA-GED-BACKUP.togocom.tg,10.228.15.90,Resolved
 CA-PRD-UMCON010.momo.togocom.tg,Not found or domain doesn't exist,Not Resolved
-dev01-db1.ws.togocom.tg,10.228.15.100,Resolved
-CA-PRP-WSAMQP01.ws.togocom.tg,10.228.15.100,Resolved
-ca-prp-umetl01.momo.togocom.tg,10.228.15.100,Resolved
+dev01-db1.ws.togocom.tg,10.228.27.14,Resolved
+CA-PRP-WSAMQP01.ws.togocom.tg,10.228.19.24,Resolved
+ca-prp-umetl01.momo.togocom.tg,10.228.18.17,Resolved
 CA-USMPROD02.yas.tg,Not found or domain doesn't exist,Not Resolved
 k8s-master02.yas.tg,Not found or domain doesn't exist,Not Resolved
 LO-SMS-FIREWALL06.togocom.tg,Not found or domain doesn't exist,Not Resolved
-ca-prd-pgw-app.momo.togocom.tg,10.228.15.100,Resolved
-ca-prd-umeng03.momo.togocom.tg,10.228.15.100,Resolved
-CA-DB-POSTGRES-01.TOGOCOM.INT,10.228.15.100,Resolved
-CA-GED-PROD-02.togocom.tg,10.228.15.100,Resolved
-CA-PRD-SUPER-DBCLUS-04.TOGOCOM.TG,10.228.15.100,Resolved
-prd01-okdm4.ws.togocom.tg,10.228.15.100,Resolved
+ca-prd-pgw-app.momo.togocom.tg,10.228.10.34,Resolved
+ca-prd-umeng03.momo.togocom.tg,10.228.10.19,Resolved
+CA-DB-POSTGRES-01.TOGOCOM.INT,10.228.11.44,Resolved
+CA-GED-PROD-02.togocom.tg,10.228.15.89,Resolved
+CA-PRD-SUPER-DBCLUS-04.TOGOCOM.TG,10.228.12.32,Resolved
+prd01-okdm4.ws.togocom.tg,10.228.11.203,Resolved
 CA-HAPROXY-BASTION.yas.tg,Not found or domain doesn't exist,Not Resolved
-CA-PRD-WSLB.ws.togocom.tg,10.228.15.100,Resolved
-LO-PRD01-BANK02.mdw.togocom.tg,10.228.15.100,Resolved
+CA-PRD-WSLB.ws.togocom.tg,10.228.13.35,Resolved
+LO-PRD01-BANK02.mdw.togocom.tg,10.228.11.221,Resolved
 tgcdb4.yas.tg,Not found or domain doesn't exist,Not Resolved
 tgcblg1.yas.tg,Not found or domain doesn't exist,Not Resolved
-LMSDEVUAT.togocom.tg,10.228.15.100,Resolved
-CA-PRP-WSAPIM02.ws.togocom.tg,10.228.15.100,Resolved
+LMSDEVUAT.togocom.tg,10.228.26.24,Resolved
+CA-PRP-WSAPIM02.ws.togocom.tg,10.228.19.32,Resolved
 CA-CERTBOT-NGINX.yas.tg,Not found or domain doesn't exist,Not Resolved
 LO-RSYSLOG-DT.yas.tg,Not found or domain doesn't exist,Not Resolved
-CA-SOCasS-UNIX.togocom.tg,10.228.15.100,Resolved
-prp01-okdm1.ws.togocom.tg,10.228.15.100,Resolved
-LMSPRODDB01.TOGOCOM.TG,10.228.15.100,Resolved
+CA-SOCasS-UNIX.togocom.tg,10.228.15.66,Resolved
+prp01-okdm1.ws.togocom.tg,10.228.19.12,Resolved
+LMSPRODDB01.TOGOCOM.TG,10.228.10.40,Resolved
 ca-prd-umdbo006.yas.tg,Not found or domain doesn't exist,Not Resolved
-CA-NETXCARE.togocom.tg,10.228.15.100,Resolved
+CA-NETXCARE.togocom.tg,10.228.32.21,Resolved
 CA-ACS-HCL-DB02.togocom.tg,Not found or domain doesn't exist,Not Resolved
-prd01-apimnt1.ws.togocom.tg,10.228.15.100,Resolved
+prd01-apimnt1.ws.togocom.tg,10.228.11.208,Resolved
 LO-PRD-UMCON26.MOMO.TOGOCOM.TG,Not found or domain doesn't exist,Not Resolved
 LO-PRP-SUPER-MS-01.TOGOCOM.TG,Not found or domain doesn't exist,Not Resolved
 lo-erendez-vous.togocom.tg,Not found or domain doesn't exist,Not Resolved
-prd01-amq2.ws.togocom.tg,10.228.15.100,Resolved
+prd01-amq2.ws.togocom.tg,10.228.11.207,Resolved
 LO-PRP-SELFCARE-MS01.togocom.tg,Not found or domain doesn't exist,Not Resolved
 vas-srv2-267555.yas.tg,Not found or domain doesn't exist,Not Resolved
-6d-erecharge-repli.togocom.tg,10.228.15.100,Resolved
+6d-erecharge-repli.togocom.tg,10.228.12.52,Resolved
 CA-PRD-WSLOGS01.ws.togocom.tg,Not found or domain doesn't exist,Not Resolved
 CA-ACS-HCL-BCKP.togocom.tg,Not found or domain doesn't exist,Not Resolved
 LO-PRP-UMDBR001.yas.tg,Not found or domain doesn't exist,Not Resolved
-prd01-okdn1.ws.togocom.tg,10.228.15.100,Resolved
+prd01-okdn1.ws.togocom.tg,10.228.11.16,Resolved
 LO-UTS-DB.togocom,Not found or domain doesn't exist,Not Resolved
-lo-prd-umweb04.momo.togocom.tg,10.228.15.100,Resolved
-tst01-apim1.ws.togocom.tg,10.228.15.100,Resolved
-prd01-efk3.ws.togocom.tg,10.228.15.100,Resolved
-prp01-okdn1.ws.togocom.tg,10.228.15.100,Resolved
-CA-SMS-SMPPPROXY01.togocom.tg,10.228.15.100,Resolved
-lo-prd-umnfs02.momo.togocom.tg,10.228.15.100,Resolved
+lo-prd-umweb04.momo.togocom.tg,10.228.10.201,Resolved
+tst01-apim1.ws.togocom.tg,10.228.27.16,Resolved
+prd01-efk3.ws.togocom.tg,10.228.11.121,Resolved
+prp01-okdn1.ws.togocom.tg,10.228.19.14,Resolved
+CA-SMS-SMPPPROXY01.togocom.tg,10.228.11.78,Resolved
+lo-prd-umnfs02.momo.togocom.tg,10.228.10.221,Resolved
 LO-PRP-BANK.togocom.tg,Not found or domain doesn't exist,Not Resolved
 ca-prd-umeng09.momo.togocom.tg,Not found or domain doesn't exist,Not Resolved
-lo-bsstools.togocom.tg,10.228.15.100,Resolved
+lo-bsstools.togocom.tg,10.228.40.25,Resolved
 CA-PRD-REDIS-01.yas.tg,Not found or domain doesn't exist,Not Resolved
-CA-MBANKING-BCEAO.mdw.togocom.tg,10.228.15.100,Resolved
+CA-MBANKING-BCEAO.mdw.togocom.tg,10.228.40.44,Resolved
 CA-USMPROD04.yas.tg,Not found or domain doesn't exist,Not Resolved
 CA-EDW-POSTGRES-DB03.togocom.tg,Not found or domain doesn't exist,Not Resolved
-CA-PRP-WSAPIG02.ws.togocom.tg,10.228.15.100,Resolved
+CA-PRP-WSAPIG02.ws.togocom.tg,10.228.19.27,Resolved
 CA-USMUAT01.yas.tg,Not found or domain doesn't exist,Not Resolved
 LO-DR-SHR-WSMIDB01.ws.togocom.tg,Not found or domain doesn't exist,Not Resolved
 cacn-dmv-dhcp.yas.tg,Not found or domain doesn't exist,Not Resolved
@@ -493,36 +493,36 @@ LO-DEV-KUBE-WORKER-NODE-01.togocom.tg,Not found or domain doesn't exist,Not Reso
 CA-PRD-UMENG004.momo.togocom.tg,Not found or domain doesn't exist,Not Resolved
 CA-PRD-UMENG16.momo.togocom.tg,Not found or domain doesn't exist,Not Resolved
 LO-PRP-SUPER-DBCLUS-01.TOGOCOM.TG,Not found or domain doesn't exist,Not Resolved
-prp01-amq2.ws.togocom.tg,10.228.15.100,Resolved
+prp01-amq2.ws.togocom.tg,10.228.19.205,Resolved
 CA-PRD-WSELAST02.ws.togocom.tg,Not found or domain doesn't exist,Not Resolved
 CA-PRD01.FRONTEND01.togocom,Not found or domain doesn't exist,Not Resolved
 LO-RA-DECODE-APP-01.yas.tg,Not found or domain doesn't exist,Not Resolved
 CA-PRD-WSAPIM02.ws.togocom.tg,Not found or domain doesn't exist,Not Resolved
 ca-prd-cms-ccs-03.togocom.tg,Not found or domain doesn't exist,Not Resolved
-CA-FILES-NETACT-DB01.togocom.tg,10.228.15.100,Resolved
+CA-FILES-NETACT-DB01.togocom.tg,10.228.11.81,Resolved
 HAPROXYPRP.yas.tg,Not found or domain doesn't exist,Not Resolved
-ca-exploitation.togocom.tg,10.228.15.100,Resolved
-CA-PRD-AGENT-APP-02.YAS.TG,10.228.15.100,Resolved
-CA-PRD-MIX-DB01.momo.togocom.tg,10.228.15.100,Resolved
+ca-exploitation.togocom.tg,10.228.11.120,Resolved
+CA-PRD-AGENT-APP-02.YAS.TG,10.228.12.81,Resolved
+CA-PRD-MIX-DB01.momo.togocom.tg,10.228.10.93,Resolved
 ca-prd-umdbr01-clone.yas.tg,Not found or domain doesn't exist,Not Resolved
-LMSPRODDB02.TOGOCOM.TG,10.228.15.100,Resolved
-ca-uat-umdbo01.momo.togocom.tg,10.228.15.100,Resolved
+LMSPRODDB02.TOGOCOM.TG,10.228.10.50,Resolved
+ca-uat-umdbo01.momo.togocom.tg,10.228.26.13,Resolved
 CA-PRD-SHR-WSMIDB01.ws.togocom.tg,Not found or domain doesn't exist,Not Resolved
-CA-BMS-DB01.togocom.tg,10.228.15.100,Resolved
+CA-BMS-DB01.togocom.tg,10.228.11.123,Resolved
 CA-PRD-UMWEB1-RESTORE24092024.TOGOCOM.TG,Not found or domain doesn't exist,Not Resolved
-CA-REPORTING-DERC.togocom.tg,10.228.15.100,Resolved
-prd01-amq1.ws.togocom.tg,10.228.15.100,Resolved
-CA-PRD-WSPGSQL02.ws.togocom.tg,10.228.15.100,Resolved
+CA-REPORTING-DERC.togocom.tg,10.228.11.110,Resolved
+prd01-amq1.ws.togocom.tg,10.228.11.19,Resolved
+CA-PRD-WSPGSQL02.ws.togocom.tg,10.228.13.12,Resolved
 CAT-DT-DNS-01.yas.tg,Not found or domain doesn't exist,Not Resolved
 LO-UMTEST.yas.tg,Not found or domain doesn't exist,Not Resolved
-CA-PRD-KUBE-MASTER-01.togocom.tg,10.228.15.100,Resolved
+CA-PRD-KUBE-MASTER-01.togocom.tg,10.228.11.72,Resolved
 CA-PRD-UMDBR-01.MOMO.TOGOCOM.TG,Not found or domain doesn't exist,Not Resolved
 LO-SMS-SMPPROXY03.togocom.tg,Not found or domain doesn't exist,Not Resolved
-prp01-amq1.ws.togocom.tg,10.228.15.100,Resolved
+prp01-amq1.ws.togocom.tg,10.228.19.17,Resolved
 LO-SMS-FIREWALL04.togocom.tg,Not found or domain doesn't exist,Not Resolved
-ca-uat-umapp01.momo.togocom.tg,10.228.15.100,Resolved
+ca-uat-umapp01.momo.togocom.tg,10.228.26.12,Resolved
 LO-DR-WSAMQP01.ws.togocom.tg,Not found or domain doesn't exist,Not Resolved
-lo-prd-umutil03.momo.togocom.tg,10.228.15.100,Resolved
+lo-prd-umutil03.momo.togocom.tg,10.228.10.219,Resolved
 LO-BSSOSS-DB-02.togocom.tg,Not found or domain doesn't exist,Not Resolved
 CA-BACKEND-APP01.togocom.tg,Not found or domain doesn't exist,Not Resolved
 CA-PRD-UMCON18.momo.togocom.tg,Not found or domain doesn't exist,Not Resolved
@@ -532,18 +532,18 @@ lo-prd-umcon13.momo.togocom.tg,Not found or domain doesn't exist,Not Resolved
 CA-PRD-UMUTIL002.momo.togocom.tg,Not found or domain doesn't exist,Not Resolved
 lo-cdp-impact-db02.togocom.tg,Not found or domain doesn't exist,Not Resolved
 ca-prd-dim-db.momo.togocom.tg,Not found or domain doesn't exist,Not Resolved
-ca-edw-gpl02.dwh.togocom.tg,10.228.15.100,Resolved
+ca-edw-gpl02.dwh.togocom.tg,10.228.11.30,Resolved
 ca-prd-cms-egw-02.togocom.tg,Not found or domain doesn't exist,Not Resolved
-CA-PRD-SUPER-RM-02.TOGOCOM.TG,10.228.15.100,Resolved
+CA-PRD-SUPER-RM-02.TOGOCOM.TG,10.228.12.38,Resolved
 smtprelay2.togocom.tg,Not found or domain doesn't exist,Not Resolved
 LO-PRD-UMENG008.momo.yas.tg,Not found or domain doesn't exist,Not Resolved
 CA-NTP-01.togocom.tg,Not found or domain doesn't exist,Not Resolved
-ca-prp-umdbe01.momo.togocom.tg,10.228.15.100,Resolved
+ca-prp-umdbe01.momo.togocom.tg,10.228.18.24,Resolved
 ip-172-26-8-143.yas.tg,Not found or domain doesn't exist,Not Resolved
 CA-USMPROD01.yas.tg,Not found or domain doesn't exist,Not Resolved
-CA-FILES-NETACT-APP01.togocom.tg,10.228.15.100,Resolved
+CA-FILES-NETACT-APP01.togocom.tg,10.228.32.15,Resolved
 CA-ALL-UME-BONUS.TOGOCOM.INT,Not found or domain doesn't exist,Not Resolved
-lo-edw-db01.dwh.togocom.tg,10.228.15.100,Resolved
+lo-edw-db01.dwh.togocom.tg,10.228.11.241,Resolved
 
 Summary,,
 Total Domains,545,
